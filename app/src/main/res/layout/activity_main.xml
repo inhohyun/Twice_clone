@@ -16,6 +16,7 @@
             android:layout_height="wrap_content"
             app:cardCornerRadius="50dp">
             <ImageView
+                android:id="@+id/member1"
                 android:layout_margin="10dp"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
@@ -32,6 +33,7 @@
             app:cardCornerRadius="50dp">
 
         <ImageView
+            android:id="@+id/member2"
             android:layout_margin="10dp"
             android:layout_width="100dp"
             android:layout_height="100dp"
@@ -44,6 +46,7 @@
             app:cardCornerRadius="50dp">
 
         <ImageView
+            android:id="@+id/member3"
             android:layout_margin="10dp"
 
             android:layout_width="100dp"
@@ -63,6 +66,7 @@
             android:layout_height="wrap_content"
             app:cardCornerRadius="50dp">
         <ImageView
+            android:id="@+id/member4"
             android:layout_width="100dp"
             android:layout_margin="10dp"
 
@@ -75,6 +79,7 @@
             android:layout_height="wrap_content"
             app:cardCornerRadius="50dp">
         <ImageView
+            android:id="@+id/member5"
             android:layout_width="100dp"
             android:layout_margin="10dp"
 
@@ -87,6 +92,7 @@
             android:layout_height="wrap_content"
             app:cardCornerRadius="50dp">
         <ImageView
+            android:id="@+id/member6"
             android:layout_width="100dp"
             android:layout_margin="10dp"
 
@@ -105,6 +111,7 @@
             app:cardCornerRadius="50dp">
 
             <ImageView
+                android:id="@+id/member7"
                 android:layout_width="100dp"
                 android:layout_margin="10dp"
 
@@ -117,6 +124,7 @@
             android:layout_height="wrap_content"
             app:cardCornerRadius="50dp">
         <ImageView
+            android:id="@+id/member8"
             android:layout_width="100dp"
             android:layout_margin="10dp"
 
@@ -129,6 +137,7 @@
             android:layout_height="wrap_content"
             app:cardCornerRadius="50dp">
         <ImageView
+            android:id="@+id/member9"
             android:layout_width="100dp"
             android:layout_margin="10dp"
 
